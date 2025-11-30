@@ -6,6 +6,6 @@ export class AppService {
     return 'Hello World!';
   }
   postHello(): string {
-    return 'Hello git!';
+    return 'Hello git v2!';
   }
 }
