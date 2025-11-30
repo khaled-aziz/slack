@@ -6,7 +6,7 @@ export class AppService {
     return 1+'Hello git v2 from feature-hello branch !';
   }
   postHello(): string {
-    return 'Hello git v2 from feature-hello branch !';
+    return 'Hello from feature-hello branch !';
   }
   putHello(): string {
     return 'Hello git v2 from feature-hello branch !';
