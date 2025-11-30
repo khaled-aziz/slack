@@ -8,4 +8,7 @@ export class AppService {
   postHello(): string {
     return 'Hello git v2 from feature-hello branch !';
   }
+  putHello(): string {
+    return 'Hello git v2 from feature-hello branch !';
+  }
 }
